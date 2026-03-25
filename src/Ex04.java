@@ -18,7 +18,7 @@ void main() {
 
     }else {
         IO.println("Você ultrapassou sua meta : ");
-        passosrestantes
+        IO.println(passos - 10000);
 
 
 
